@@ -1,28 +1,21 @@
-CAVA Config - Catppuccin Mocha Theme
-A beautiful and smooth CAVA configuration featuring the Catppuccin Mocha color scheme with gradient effects.
+**CAVA CONFIG**
 
-Preview
-Smooth gradient audio visualizer with Catppuccin Mocha colors
+<p align="center">
+  <img src="images/cavaimage.png" alt="CavaPrev" width="600">
+</p>
 
-Color Gradient
-The config uses this stunning Catppuccin Mocha gradient:
+***Gradient color***
+```
+gradient_color_1 = '#2a3b3d'
+gradient_color_2 = '#3a5a5a'  
+gradient_color_3 = '#4a7a7a'  
+gradient_color_4 = '#5a9a9a'  
+gradient_color_5 = '#6ababa' 
+gradient_color_6 = '#8adada' 
+```
 
-#94e2d5 (Mint)
-
-#89dceb (Sky)
-
-#74c7ec (Sapphire)
-
-#89b4fa (Blue)
-
-#cba6f7 (Lavender)
-
-#f5c2e7 (Pink)
-
-#eba0ac (Maroon)
-
-#f38ba8 (Red)
-
-**Installation**
-Method 1:Direct Download Download the cava.conf file from this repository
-Method 2:Include in Existing Config Add this line to your existing
+***SENSITIVITY + FRAMERATE***
+```
+sensitivity = 160
+framerate = 140
+```
